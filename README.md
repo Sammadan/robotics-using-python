@@ -1,8 +1,6 @@
 # robotics-using-python
 My first commit on it is K map clustering
-It is the best way to solve clustering problem
-
-
+It is one the best way to solve clustering problem
 
 
 
